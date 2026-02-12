@@ -66,13 +66,9 @@ I'm a passionate **Full Stack Developer** with substantial experience in buildin
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Valuemark-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valuemark-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valuemark-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valuemark-dev&theme=radical&hide_border=true" alt="Contribution Graph" />
-
 </div>
 
 ---
