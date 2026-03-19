@@ -16,7 +16,7 @@ I'm a passionate **Full Stack Developer** with substantial experience in buildin
 - 🔭 I’m currently working on **scalable enterprise applications**.
 - 🌱 I’m continually learning **Advanced Cloud Architecture & AI Integration**.
 - 👯 I’m looking to collaborate on **innovative open source projects**.
-- 💬 Ask me about **React, React Native, Node.js, and Cloud Infrastructure**.
+- 💬 Ask me about **Web & Mobile development and Cloud Infrastructure**.
 
 ---
 
